@@ -17,7 +17,10 @@ Full list: [Research](/research/)
 ## Professional Activities
 
 ## Teaching
-
+- Digitalization and Public Policy Problems (Graduate)
+- Macroeconomics (PhD)
+- Time Series Econometrics (PhD)
+  
 ## Contact
 - Email: slee6@kdis.ac.kr
 - Google Scholar: (link)
