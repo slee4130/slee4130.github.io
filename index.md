@@ -1,6 +1,7 @@
 ---
-layout: home
-title: "Seohyun Lee"
+layout: page
+title: ""
+permalink: /
 ---
 
 ## About
