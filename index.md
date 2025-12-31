@@ -6,12 +6,10 @@ title: Home
 ## About
 Associate Professor at KDI School of Public Policy and Management.
 
-## Research
-- Explainable ML in credit risk
-- Macro-financial stability
-- Text-based risk indices
+## Navigation
+- [Research](/research/)
 
 ## Contact
-- Email: your@email.com
+- Email: slee6@kdis.ac.kr
 - Google Scholar: (link)
 - CV: (link)
