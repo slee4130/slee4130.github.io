@@ -3,5 +3,4 @@ description: "Macro · Econometrics · AI/ML in Finance & Policy"
 theme: minima
 
 header_pages:
-  - index.md
   - research.md
