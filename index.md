@@ -4,9 +4,8 @@ title: ""
 permalink: /
 ---
 
-**Associate Professor**  
-KDI School of Public Policy and Management
-
+**Associate Professor**, KDI School of Public Policy and Management
+My research bridges econometrics, machine learning, and macro-finance to study how data and policy interact in shaping financial and economic outcomes.
 **Research fields:** Macroeconomics · Macro-Finance · Applied Econometrics · AI/ML in Policy
 
 ## Research (Selected & Current)
