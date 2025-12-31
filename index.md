@@ -4,8 +4,10 @@ title: ""
 permalink: /
 ---
 
-## About
-Associate Professor at KDI School of Public Policy and Management.
+**Associate Professor of Economics**  
+KDI School of Public Policy and Management
+
+**Research fields:** Macroeconomics · Macro-Finance · Applied Econometrics · AI/ML in Policy
 
 ## Research (Selected & Current)
 - 
